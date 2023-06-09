@@ -1,7 +1,7 @@
 {
   "name": "اهلن بك في تنصيب بوت تيرماكس",
   "description" : "مرحبًا بكم في Arab Telethon 8.1v {Tom}" ،
-  "logo": "https://graph.org/file/e4675531e9ce358b53a0b.jpg
+  "الشعار" : "https://graph.org/file/e4675531e9ce358b53a0b.jpg"
   "keywords": ["plugin","modular","productivity"],
   "repository": "https://github.com/help-iq2/telethon",
   "website": "#TODO",
